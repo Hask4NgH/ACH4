@@ -14,7 +14,6 @@
 # Compiled Dynamic libraries
 *.so
 *.dylib
-*.dll
 
 # Fortran module files
 *.mod
@@ -27,6 +26,23 @@
 *.lib
 
 # Executables
-*.exe
 *.out
 *.app
+
+# misc
+*.tlog
+*.pdb
+*.suo
+*.db
+*.opendb
+*.ilk
+*.log
+*.idb
+*.ipch
+*.iobj
+*.ipdb
+
+# Folders
+.vs/
+Debug/
+Release/
